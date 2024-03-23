@@ -1,1 +1,1 @@
-Ovo je pomoćna mapa za dokumente i slike koje ćete referencirati u dokumentaciji na svojim wiki stranicama. 
+[Zadatak - SCVZ.pdf](https://github.com/foivz/pi2024-zadace-mstarcevi213/files/14731506/Zadatak.-.SCVZ.pdf)
