@@ -19,6 +19,4 @@ Razvoj informacijskog sustava za upravljanje studentskom menzom u Varaždinu ima
 https://elf.foi.hr/pluginfile.php/201855/mod_resource/content/11/Zadatak%20-%20SCVZ.pdf
 
 ## Resursi
-(Zadaće je obvezno predati u obliku Wiki stranica na ovom repozitoriju. Slike i druge artefakte koje ćete koristiti na wiki stranicama smjestite u mapu dokumentacije u repozitoriju!)
-
 Svi resursi nalaze se u mapi _Documentation_.
